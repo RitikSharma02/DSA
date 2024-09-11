@@ -31,13 +31,21 @@ public class Loops {
 //        }
 
 
-while( !Alpha.equalsIgnoreCase("x")){
-    System.out.println();
-    System.out.println("Enter Something, to be precise Enter X to exit hahahaha");
-    Alpha = in.nextLine();
-    System.out.println("You entered: " + Alpha);
-}
-        System.out.println("you are exited sir");
+//while( !Alpha.equalsIgnoreCase("x")){
+//    System.out.println();
+//    System.out.println("Enter Something, to be precise Enter X to exit hahahaha");
+//    Alpha = in.nextLine();
+//    System.out.println("You entered: " + Alpha);
+//}
+//        System.out.println("you are exited sir");
+        int n =1;
+        do{
+            System.out.println("hellow world");
+            n++;
+        }
+        while (n >= 1 );
+
+
 
     }
 }
