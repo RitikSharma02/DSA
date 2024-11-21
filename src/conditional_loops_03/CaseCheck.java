@@ -1,4 +1,4 @@
-package conditional_loops;
+package conditional_loops_03;
 
 import java.util.Scanner;
 // to check if input char is lowercase or uppercase
